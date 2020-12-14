@@ -1,10 +1,10 @@
-package com.shenlan.springcloud.jcloud;
+package com.springcloud.jcloudprovider1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JCloudApplicationTests {
+class JCloudProvider1ApplicationTests {
 
 	@Test
 	void contextLoads() {
