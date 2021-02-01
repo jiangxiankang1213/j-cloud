@@ -15,14 +15,14 @@ import org.springframework.web.bind.annotation.RestController;
 public class UserController {
     @RequestMapping("/sayHello")
     public String sayhello(){
-        return "I`m provider 1 ,Hello consumer!";
+        return "I`m provider 1 ,Hello consumer!222";
     }
     @RequestMapping("/sayHi")
     public String sayHi(){
-        return "I`m provider 1 ,Hello consumer!";
+        return "I`m provider 1 ,Hello consumer!222";
     }
     @RequestMapping("/sayHaha")
     public String sayHaha(){
-        return "I`m provider 1 ,Hello consumer!";
+        return "I`m provider 1 ,Hello consumer!222";
     }
 }
