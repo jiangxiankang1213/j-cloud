@@ -7,4 +7,7 @@ package com.springcloud.jcloudprovider1.controller;
  * @param:
  */
 public class playGame {
+    public static void main(String[] args) {
+        System.out.println("打游戏测试类");
+    }
 }
