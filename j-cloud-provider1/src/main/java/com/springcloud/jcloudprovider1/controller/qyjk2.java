@@ -8,6 +8,6 @@ package com.springcloud.jcloudprovider1.controller;
  */
 public class qyjk2 {
     public static void main(String[] args) {
-        System.out.println("企业监控2jxk");
+        System.out.println("企业监控2jxk222");
     }
 }
