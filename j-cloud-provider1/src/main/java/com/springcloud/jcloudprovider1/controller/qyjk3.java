@@ -9,5 +9,8 @@ package com.springcloud.jcloudprovider1.controller;
 public class qyjk3 {
     public static void main(String[] args) {
         System.out.println("企业监控3jxk3-3333");
+
+        System.out.println("企业监控3jxk3-2222");
+
     }
 }
