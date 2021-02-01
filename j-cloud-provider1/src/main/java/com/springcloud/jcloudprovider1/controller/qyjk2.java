@@ -7,4 +7,7 @@ package com.springcloud.jcloudprovider1.controller;
  * @param:
  */
 public class qyjk2 {
+    public static void main(String[] args) {
+        System.out.println("企业监控2");
+    }
 }
