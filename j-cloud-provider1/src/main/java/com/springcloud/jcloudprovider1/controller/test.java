@@ -25,6 +25,10 @@ public class test {
         ////////////////////////////////////
         System.out.println("测试冲突解决jxk3333);
         System.out.println("测试冲突解决jxk22222");
+<<<<<<< HEAD
         System.out.println("测试冲突解决jxk22222");
+=======
+        System.out.println("测试冲突解决jxk3333");
+>>>>>>> 19af0e2a0f3c3020b55631a686b82642995b3c2d
     }
 }
