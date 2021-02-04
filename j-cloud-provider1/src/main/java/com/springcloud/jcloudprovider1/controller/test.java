@@ -24,5 +24,6 @@ public class test {
         System.out.println("测试冲突解决jxk2");
         ////////////////////////////////////
         System.out.println("测试冲突解决jxk3333);
+        System.out.println("测试冲突解决jxk22222");
     }
 }
