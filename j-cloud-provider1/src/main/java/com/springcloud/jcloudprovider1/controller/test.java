@@ -19,5 +19,6 @@ public class test {
         a.put(ab,"测试111");
         System.out.println(s);
 
+        System.out.println("测试冲突解决");
     }
 }
