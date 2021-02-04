@@ -8,6 +8,6 @@ package com.springcloud.jcloudprovider1.controller;
  */
 public class listenMusic {
     public static void main(String[] args) {
-        System.out.println("听歌！");
+        System.out.println("听歌！2222");
     }
 }
