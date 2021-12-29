@@ -1,6 +1,6 @@
 package com.springcloud.jcloudprovider1.controller;
 
-import java.util.HashMap;
+import java.util.*;
 import java.util.logging.Handler;
 
 /**
@@ -29,6 +29,13 @@ public class test {
         System.out.println("测试冲突解决jxk22222");
 
         System.out.println("测试冲突解决jxk3333");
+        List<Map> dd =new ArrayList<>();
+        List<Animal> dd2 =new ArrayList<>();
+        int a2=Integer.MAX_VALUE;//2147483647
+        int newCapacity = 10 + (10 >> 1);
+        System.out.println("====================:"+newCapacity);
+        Map a7 =new HashMap();
+        Map b =new Hashtable();
 
     }
 }
